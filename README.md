@@ -1,1 +1,3 @@
 Ben Sema, Öğrenci A olarak Öğrenci B'nin çözdüğü çakışma (conflict) sonrası güncel kodu git pull ile sorunsuz bir şekilde yerelime çekince projenin bütünlüğünün korunduğunu görmek bana güven verdi. Conflict öncesi çalışırken tuhaf bir şekilde git pull yaptıktan sonra çalıştığım klasörün altında aynı klasörden bir kez daha oluştu. Onu silinceye kadarki süreçte biraz gerildim. 
+
+Ben Ayşen, Öğrenci B olarak push sırasında hata aldıktan sonra git pull ile merge conflict oluştuğunu gördüm. main.py içindeki çakışan satırları analiz ederek her iki değişikliği birleştirip conflict’i çözdüm. Bu süreç, Git’in ekip çalışmasında neden kritik olduğunu somut şekilde anlamamı sağladı.
