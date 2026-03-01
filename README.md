@@ -1,0 +1,1 @@
+Ben Sema, Öğrenci A olarak Öğrenci B'nin çözdüğü çakışma (conflict) sonrası güncel kodu git pull ile sorunsuz bir şekilde yerelime çekince projenin bütünlüğünün korunduğunu görmek bana güven verdi. Conflict öncesi çalışırken tuhaf bir şekilde git pull yaptıktan sonra çalıştığım klasörün altında aynı klasörden bir kez daha oluştu. Onu silinceye kadarki süreçte biraz gerildim. 
